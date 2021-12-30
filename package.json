@@ -1,0 +1,15 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "servidor falso json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Erika Avila",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
