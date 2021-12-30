@@ -1,0 +1,29 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Vinos",
+        "description": "Deliciosos y refrecantes"
+      },
+      {
+        "id": 2,
+        "name": "Hamburguesas",
+        "description": "Con queso o con Tocino"
+      },
+      {
+        "id": 3,
+        "name": "Comida Tipica",
+        "description": "Deliciosa comida de la Llajta"
+      },
+      {
+        "id": 4,
+        "name": "Snacks",
+        "description": "Para picar"
+      },
+      {
+        "id": 5,
+        "name": "Jugos",
+        "description": "Hechos con fruta fresca"
+      }
+    ]
+  }
